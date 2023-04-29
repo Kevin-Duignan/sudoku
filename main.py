@@ -4,7 +4,7 @@ from dokusan import generators
 from solve import solve_board
 
 """ This sudoku solver will take two types of command-line-arguments.
-generate: Program will generate a sudoku board of varying difficulty from scratch, putting the data into a new .txt file and display the board.
+    generate: Program will generate a sudoku board of varying difficulty from scratch, putting the data into a new .txt file and display the board.
     solve: Program will solve the existing sudoku board using a backtracking algorithm, and display the solved board.
     current: Program will display the current saved board
     """
